@@ -1,0 +1,2395 @@
+>cp12mer-1:0+12 of 12 bc25mer_67914:2+14 of 25
+CATATCAACGCC
+||||||||||||
+CATATCAACGCC
+
+>cp12mer-1:0+12 of 12 bc25mer_10555:0+12 of 25
+CATATCAACGCC
+||||||||||||
+CATATCAACGCC
+
+>cp12mer-2:0+12 of 12 bc25mer_769:2+14 of 25
+TGTAGTGTTCCC
+||||||||||||
+TGTAGTGTTCCC
+
+>cp12mer-2:0+12 of 12 bc25mer_180396:4+16 of 25
+TGTAGTGTTCCC
+||||||||||||
+TGTAGTGTTCCC
+
+>cp12mer-3:0+12 of 12 bc25mer_23071:1+13 of 25
+TTCGCAGAGTAG
+||||||||||||
+TTCGCAGAGTAG
+
+>cp12mer-4:0+12 of 12 bc25mer_149339:6+18 of 25
+TGGTTATCGGAC
+||||||||||||
+TGGTTATCGGAC
+
+>cp12mer-5:0+12 of 12 bc25mer_63911:4+16 of 25
+CTTAGAAGGGCA
+||||||||||||
+CTTAGAAGGGCA
+
+>cp12mer-6:0+12 of 12 bc25mer_42948:5+17 of 25
+GAGACTGGCTTT
+||||||||||||
+GAGACTGGCTTT
+
+>cp12mer-7:0+12 of 12 bc25mer_47726:5+17 of 25
+GAGGAACCACTT
+||||||||||||
+GAGGAACCACTT
+
+>cp12mer-8:0+12 of 12 bc25mer_8953:5+17 of 25
+TCACTCTCGATG
+||||||||||||
+TCACTCTCGATG
+
+>cp12mer-9:0+12 of 12 bc25mer_10788:9+21 of 25
+CTACCGGAAACT
+||||||||||||
+CTACCGGAAACT
+
+>cp12mer-10:0+12 of 12 bc25mer_3211:2+14 of 25
+TACACTTCCCCA
+||||||||||||
+TACACTTCCCCA
+
+>cp12mer-11:0+12 of 12 bc25mer_2476:6+18 of 25
+GATTCCGAGTCA
+||||||||||||
+GATTCCGAGTCA
+
+>cp12mer-12:0+12 of 12 bc25mer_127402:5+17 of 25
+CAATCGGACTTG
+||||||||||||
+CAATCGGACTTG
+
+>cp12mer-13:0+12 of 12 bc25mer_59976:4+16 of 25
+AGGAGAAGTTGG
+||||||||||||
+AGGAGAAGTTGG
+
+>cp12mer-14:0+12 of 12 bc25mer_38142:3+15 of 25
+CATTGGTCTGGT
+||||||||||||
+CATTGGTCTGGT
+
+>cp12mer-15:0+12 of 12 bc25mer_4059:5+17 of 25
+CGGTAACACTGA
+||||||||||||
+CGGTAACACTGA
+
+>cp12mer-16:0+12 of 12 bc25mer_18862:6+18 of 25
+TACCGGGATACA
+||||||||||||
+TACCGGGATACA
+
+>cp12mer-16:0-12 of 12 bc25mer_42020:13+25 of 25
+TGTATCCCGGTA
+||||||||||||
+TGTATCCCGGTA
+
+>cp12mer-17:0+12 of 12 bc25mer_374:5+17 of 25
+TAGCTAAGCGAG
+||||||||||||
+TAGCTAAGCGAG
+
+>cp12mer-18:0+12 of 12 bc25mer_128804:8+20 of 25
+CTCCATAGGCAA
+||||||||||||
+CTCCATAGGCAA
+
+>cp12mer-18:0-12 of 12 bc25mer_234305:12+24 of 25
+TTGCCTATGGAG
+||||||||||||
+TTGCCTATGGAG
+
+>cp12mer-19:0+12 of 12 bc25mer_55963:6+18 of 25
+AATGTGTGGGAG
+||||||||||||
+AATGTGTGGGAG
+
+>cp12mer-20:0+12 of 12 bc25mer_90467:4+16 of 25
+GATTGGAGTCGT
+||||||||||||
+GATTGGAGTCGT
+
+>cp12mer-21:0+12 of 12 bc25mer_70256:7+19 of 25
+TCATCCGCTTAC
+||||||||||||
+TCATCCGCTTAC
+
+>cp12mer-21:0+12 of 12 bc25mer_15776:8+20 of 25
+TCATCCGCTTAC
+||||||||||||
+TCATCCGCTTAC
+
+>cp12mer-22:0+12 of 12 bc25mer_11322:0+12 of 25
+CATGAAGAACGG
+||||||||||||
+CATGAAGAACGG
+
+>cp12mer-23:0+12 of 12 bc25mer_98149:2+14 of 25
+ATTCCCTGCTAC
+||||||||||||
+ATTCCCTGCTAC
+
+>cp12mer-24:0+12 of 12 bc25mer_81758:7+19 of 25
+ACCATACGCTAC
+||||||||||||
+ACCATACGCTAC
+
+>cp12mer-25:0+12 of 12 bc25mer_102038:4+16 of 25
+TCAGAGATTGCC
+||||||||||||
+TCAGAGATTGCC
+
+>cp12mer-26:0+12 of 12 bc25mer_153755:1+13 of 25
+TAGTGCCTGTTC
+||||||||||||
+TAGTGCCTGTTC
+
+>cp12mer-27:0+12 of 12 bc25mer_148743:7+19 of 25
+CGCCCTAATTCT
+||||||||||||
+CGCCCTAATTCT
+
+>cp12mer-28:0+12 of 12 bc25mer_35336:3+15 of 25
+ATGATCAAGGGG
+||||||||||||
+ATGATCAAGGGG
+
+>cp12mer-29:0+12 of 12 bc25mer_20014:2+14 of 25
+TCGTGATATGGG
+||||||||||||
+TCGTGATATGGG
+
+>cp12mer-29:0-12 of 12 bc25mer_1595:7+19 of 25
+CCCATATCACGA
+||||||||||||
+CCCATATCACGA
+
+>cp12mer-29:0-12 of 12 bc25mer_140076:2+14 of 25
+CCCATATCACGA
+||||||||||||
+CCCATATCACGA
+
+>cp12mer-30:0+12 of 12 bc25mer_236163:0+12 of 25
+GTAACTGGTGGT
+||||||||||||
+GTAACTGGTGGT
+
+>cp12mer-31:0+12 of 12 bc25mer_15338:4+16 of 25
+TCCAGCTTTAGG
+||||||||||||
+TCCAGCTTTAGG
+
+>cp12mer-32:0+12 of 12 bc25mer_3212:2+14 of 25
+GACAGTTTCGTC
+||||||||||||
+GACAGTTTCGTC
+
+>cp12mer-33:0+12 of 12 bc25mer_1710:7+19 of 25
+ATTGAAGGGGTC
+||||||||||||
+ATTGAAGGGGTC
+
+>cp12mer-34:0+12 of 12 bc25mer_55004:8+20 of 25
+TTACCGTGTCTG
+||||||||||||
+TTACCGTGTCTG
+
+>cp12mer-35:0+12 of 12 bc25mer_227310:3+15 of 25
+GCAATACTCCCT
+||||||||||||
+GCAATACTCCCT
+
+>cp12mer-36:0+12 of 12 bc25mer_46883:1+13 of 25
+AGTCACAGTCTC
+||||||||||||
+AGTCACAGTCTC
+
+>cp12mer-37:0+12 of 12 bc25mer_181347:0+12 of 25
+TTATCTCGTGCC
+||||||||||||
+TTATCTCGTGCC
+
+>cp12mer-38:0+12 of 12 bc25mer_37768:3+15 of 25
+GATTGAGCGAAG
+||||||||||||
+GATTGAGCGAAG
+
+>cp12mer-38:0-12 of 12 bc25mer_157647:5+17 of 25
+CTTCGCTCAATC
+||||||||||||
+CTTCGCTCAATC
+
+>cp12mer-39:0+12 of 12 bc25mer_237699:7+19 of 25
+CGAATCGTTCTC
+||||||||||||
+CGAATCGTTCTC
+
+>cp12mer-40:0+12 of 12 bc25mer_6436:4+16 of 25
+ATCGTGGGTATG
+||||||||||||
+ATCGTGGGTATG
+
+>cp12mer-41:0+12 of 12 bc25mer_97952:3+15 of 25
+CCTGAGTGGAAA
+||||||||||||
+CCTGAGTGGAAA
+
+>cp12mer-42:0+12 of 12 bc25mer_12910:5+17 of 25
+CTAACCGTTCCT
+||||||||||||
+CTAACCGTTCCT
+
+>cp12mer-43:0+12 of 12 bc25mer_16769:6+18 of 25
+TCTTGGACAGAC
+||||||||||||
+TCTTGGACAGAC
+
+>cp12mer-44:0+12 of 12 bc25mer_3371:1+13 of 25
+CAACTATCCGCT
+||||||||||||
+CAACTATCCGCT
+
+>cp12mer-45:0+12 of 12 bc25mer_32978:0+12 of 25
+ATCGGATTTGGG
+||||||||||||
+ATCGGATTTGGG
+
+>cp12mer-45:0+12 of 12 bc25mer_17197:1+13 of 25
+ATCGGATTTGGG
+||||||||||||
+ATCGGATTTGGG
+
+>cp12mer-46:0+12 of 12 bc25mer_11193:9+21 of 25
+ATGCTGTAACCC
+||||||||||||
+ATGCTGTAACCC
+
+>cp12mer-47:0+12 of 12 bc25mer_33894:2+14 of 25
+AGCCTAATCCAC
+||||||||||||
+AGCCTAATCCAC
+
+>cp12mer-47:0+12 of 12 bc25mer_169840:13+25 of 25
+AGCCTAATCCAC
+||||||||||||
+AGCCTAATCCAC
+
+>cp12mer-48:0+12 of 12 bc25mer_66615:4+16 of 25
+AGGATTGTCCCT
+||||||||||||
+AGGATTGTCCCT
+
+>cp12mer-49:0+12 of 12 bc25mer_72701:5+17 of 25
+TCTCGTCCTTCT
+||||||||||||
+TCTCGTCCTTCT
+
+>cp12mer-50:0+12 of 12 bc25mer_17081:5+17 of 25
+TGTCTCCTCTCA
+||||||||||||
+TGTCTCCTCTCA
+
+>cp12mer-51:0+12 of 12 bc25mer_63714:4+16 of 25
+GCTCTCGTTACA
+||||||||||||
+GCTCTCGTTACA
+
+>cp12mer-52:0+12 of 12 bc25mer_6388:10+22 of 25
+CTGCACAAGTAG
+||||||||||||
+CTGCACAAGTAG
+
+>cp12mer-53:0+12 of 12 bc25mer_3089:0+12 of 25
+TAACTGCCCTTG
+||||||||||||
+TAACTGCCCTTG
+
+>cp12mer-54:0+12 of 12 bc25mer_189912:7+19 of 25
+TATACGGAGCAG
+||||||||||||
+TATACGGAGCAG
+
+>cp12mer-55:0+12 of 12 bc25mer_44360:4+16 of 25
+GGGATAGCTTCA
+||||||||||||
+GGGATAGCTTCA
+
+>cp12mer-55:0-12 of 12 bc25mer_213169:3+15 of 25
+TGAAGCTATCCC
+||||||||||||
+TGAAGCTATCCC
+
+>cp12mer-56:0+12 of 12 bc25mer_43556:3+15 of 25
+CCTGTGTTACCT
+||||||||||||
+CCTGTGTTACCT
+
+>cp12mer-57:0+12 of 12 bc25mer_62115:7+19 of 25
+CTAACTAGGCGA
+||||||||||||
+CTAACTAGGCGA
+
+>cp12mer-57:0+12 of 12 bc25mer_170785:1+13 of 25
+CTAACTAGGCGA
+||||||||||||
+CTAACTAGGCGA
+
+>cp12mer-58:0+12 of 12 bc25mer_55377:5+17 of 25
+GCAGGAAACAAC
+||||||||||||
+GCAGGAAACAAC
+
+>cp12mer-59:0+12 of 12 bc25mer_220717:9+21 of 25
+GTTGGCCCTATT
+||||||||||||
+GTTGGCCCTATT
+
+>cp12mer-59:0+12 of 12 bc25mer_139068:5+17 of 25
+GTTGGCCCTATT
+||||||||||||
+GTTGGCCCTATT
+
+>cp12mer-60:0+12 of 12 bc25mer_101982:7+19 of 25
+CCACCAAAAGTC
+||||||||||||
+CCACCAAAAGTC
+
+>cp12mer-61:0+12 of 12 bc25mer_21319:6+18 of 25
+GTGAGTTATGCC
+||||||||||||
+GTGAGTTATGCC
+
+>cp12mer-62:0+12 of 12 bc25mer_42244:2+14 of 25
+CAACGGTGTAAG
+||||||||||||
+CAACGGTGTAAG
+
+>cp12mer-63:0+12 of 12 bc25mer_21432:2+14 of 25
+GTAGCTTTCCCA
+||||||||||||
+GTAGCTTTCCCA
+
+>cp12mer-63:0+12 of 12 bc25mer_208372:5+17 of 25
+GTAGCTTTCCCA
+||||||||||||
+GTAGCTTTCCCA
+
+>cp12mer-63:0-12 of 12 bc25mer_171509:0+12 of 25
+TGGGAAAGCTAC
+||||||||||||
+TGGGAAAGCTAC
+
+>cp12mer-64:0+12 of 12 bc25mer_47091:0+12 of 25
+TGGGTCTACTCT
+||||||||||||
+TGGGTCTACTCT
+
+>cp12mer-65:0+12 of 12 bc25mer_61203:4+16 of 25
+GCCTTTCTCTGT
+||||||||||||
+GCCTTTCTCTGT
+
+>cp12mer-65:0+12 of 12 bc25mer_124967:10+22 of 25
+GCCTTTCTCTGT
+||||||||||||
+GCCTTTCTCTGT
+
+>cp12mer-66:0+12 of 12 bc25mer_5614:5+17 of 25
+TCTGAGTGGATG
+||||||||||||
+TCTGAGTGGATG
+
+>cp12mer-67:0+12 of 12 bc25mer_96568:7+19 of 25
+CGTTCATCGTTC
+||||||||||||
+CGTTCATCGTTC
+
+>cp12mer-68:0+12 of 12 bc25mer_1181:6+18 of 25
+TAAGCCAGAGTG
+||||||||||||
+TAAGCCAGAGTG
+
+>cp12mer-69:0+12 of 12 bc25mer_71557:7+19 of 25
+CGACTAGCAAAC
+||||||||||||
+CGACTAGCAAAC
+
+>cp12mer-69:0-12 of 12 bc25mer_169510:13+25 of 25
+GTTTGCTAGTCG
+||||||||||||
+GTTTGCTAGTCG
+
+>cp12mer-70:0+12 of 12 bc25mer_16517:6+18 of 25
+CGTTATGCAGTC
+||||||||||||
+CGTTATGCAGTC
+
+>cp12mer-71:0+12 of 12 bc25mer_50038:9+21 of 25
+ACTCGCTCATAG
+||||||||||||
+ACTCGCTCATAG
+
+>cp12mer-71:0+12 of 12 bc25mer_226024:11+23 of 25
+ACTCGCTCATAG
+||||||||||||
+ACTCGCTCATAG
+
+>cp12mer-72:0+12 of 12 bc25mer_18606:2+14 of 25
+ATAGTGCCTTCC
+||||||||||||
+ATAGTGCCTTCC
+
+>cp12mer-73:0+12 of 12 bc25mer_33877:2+14 of 25
+TGACCATCTCAC
+||||||||||||
+TGACCATCTCAC
+
+>cp12mer-74:0+12 of 12 bc25mer_159818:6+18 of 25
+ACATGAAACCCC
+||||||||||||
+ACATGAAACCCC
+
+>cp12mer-75:0+12 of 12 bc25mer_36491:5+17 of 25
+ATAGGCGAGATG
+||||||||||||
+ATAGGCGAGATG
+
+>cp12mer-76:0+12 of 12 bc25mer_3434:4+16 of 25
+GCTATTGTCGTG
+||||||||||||
+GCTATTGTCGTG
+
+>cp12mer-77:0+12 of 12 bc25mer_41821:1+13 of 25
+TTTCCTCCTCAC
+||||||||||||
+TTTCCTCCTCAC
+
+>cp12mer-78:0+12 of 12 bc25mer_28317:4+16 of 25
+TCTTTAGGACGG
+||||||||||||
+TCTTTAGGACGG
+
+>cp12mer-79:0+12 of 12 bc25mer_174050:9+21 of 25
+CTATCTGCGTGA
+||||||||||||
+CTATCTGCGTGA
+
+>cp12mer-80:0+12 of 12 bc25mer_3186:9+21 of 25
+CTGCATTCTGTC
+||||||||||||
+CTGCATTCTGTC
+
+>cp12mer-81:0+12 of 12 bc25mer_2855:1+13 of 25
+AGAGCGTAAAGG
+||||||||||||
+AGAGCGTAAAGG
+
+>cp12mer-82:0+12 of 12 bc25mer_227554:7+19 of 25
+TGTCGGTACTTC
+||||||||||||
+TGTCGGTACTTC
+
+>cp12mer-83:0+12 of 12 bc25mer_7545:7+19 of 25
+CGGTCCACTAAA
+||||||||||||
+CGGTCCACTAAA
+
+>cp12mer-83:0-12 of 12 bc25mer_135551:3+15 of 25
+TTTAGTGGACCG
+||||||||||||
+TTTAGTGGACCG
+
+>cp12mer-84:0+12 of 12 bc25mer_36889:1+13 of 25
+AAGTCTGATGGG
+||||||||||||
+AAGTCTGATGGG
+
+>cp12mer-85:0+12 of 12 bc25mer_18451:7+19 of 25
+CGACGTTTAGGA
+||||||||||||
+CGACGTTTAGGA
+
+>cp12mer-86:0+12 of 12 bc25mer_30826:11+23 of 25
+TCGTTACAAGGG
+||||||||||||
+TCGTTACAAGGG
+
+>cp12mer-86:0+12 of 12 bc25mer_228977:8+20 of 25
+TCGTTACAAGGG
+||||||||||||
+TCGTTACAAGGG
+
+>cp12mer-87:0+12 of 12 bc25mer_91:8+20 of 25
+CTACAATGCGTG
+||||||||||||
+CTACAATGCGTG
+
+>cp12mer-87:0-12 of 12 bc25mer_184421:10+22 of 25
+CACGCATTGTAG
+||||||||||||
+CACGCATTGTAG
+
+>cp12mer-88:0+12 of 12 bc25mer_222704:7+19 of 25
+TGTGAGTTACGG
+||||||||||||
+TGTGAGTTACGG
+
+>cp12mer-88:0+12 of 12 bc25mer_11612:7+19 of 25
+TGTGAGTTACGG
+||||||||||||
+TGTGAGTTACGG
+
+>cp12mer-89:0+12 of 12 bc25mer_96651:6+18 of 25
+GTGACTGATCCT
+||||||||||||
+GTGACTGATCCT
+
+>cp12mer-89:0+12 of 12 bc25mer_195675:0+12 of 25
+GTGACTGATCCT
+||||||||||||
+GTGACTGATCCT
+
+>cp12mer-90:0+12 of 12 bc25mer_170361:10+22 of 25
+TATTCGGGATGG
+||||||||||||
+TATTCGGGATGG
+
+>cp12mer-90:0+12 of 12 bc25mer_10297:10+22 of 25
+TATTCGGGATGG
+||||||||||||
+TATTCGGGATGG
+
+>cp12mer-91:0+12 of 12 bc25mer_5657:3+15 of 25
+GTGGTGGAAATG
+||||||||||||
+GTGGTGGAAATG
+
+>cp12mer-92:0+12 of 12 bc25mer_3011:7+19 of 25
+AATGCACTCCTC
+||||||||||||
+AATGCACTCCTC
+
+>cp12mer-92:0-12 of 12 bc25mer_167858:2+14 of 25
+GAGGAGTGCATT
+||||||||||||
+GAGGAGTGCATT
+
+>cp12mer-93:0+12 of 12 bc25mer_61917:4+16 of 25
+AGGCTAACTCAC
+||||||||||||
+AGGCTAACTCAC
+
+>cp12mer-94:0+12 of 12 bc25mer_87566:4+16 of 25
+CGATAGACGTTG
+||||||||||||
+CGATAGACGTTG
+
+>cp12mer-94:0+12 of 12 bc25mer_16970:7+19 of 25
+CGATAGACGTTG
+||||||||||||
+CGATAGACGTTG
+
+>cp12mer-95:0+12 of 12 bc25mer_15222:0+12 of 25
+GGAGACACAAAC
+||||||||||||
+GGAGACACAAAC
+
+>cp12mer-96:0+12 of 12 bc25mer_187000:7+19 of 25
+CGACATTAAGCC
+||||||||||||
+CGACATTAAGCC
+
+>cp12mer-97:0+12 of 12 bc25mer_19935:0+12 of 25
+CCGATTGAACTG
+||||||||||||
+CCGATTGAACTG
+
+>cp12mer-97:0-12 of 12 bc25mer_185848:11+23 of 25
+CAGTTCAATCGG
+||||||||||||
+CAGTTCAATCGG
+
+>cp12mer-98:0+12 of 12 bc25mer_28600:4+16 of 25
+GTTGTGGAGTGA
+||||||||||||
+GTTGTGGAGTGA
+
+>cp12mer-99:0+12 of 12 bc25mer_32733:3+15 of 25
+TGGATCTAAGCC
+||||||||||||
+TGGATCTAAGCC
+
+>cp12mer-100:0+12 of 12 bc25mer_3668:6+18 of 25
+GGAGCCCTTATT
+||||||||||||
+GGAGCCCTTATT
+
+>cp12mer-101:0+12 of 12 bc25mer_229821:8+20 of 25
+ACCACTACCAAC
+||||||||||||
+ACCACTACCAAC
+
+>cp12mer-102:0+12 of 12 bc25mer_20058:5+17 of 25
+GTGGTAATTCGG
+||||||||||||
+GTGGTAATTCGG
+
+>cp12mer-103:0+12 of 12 bc25mer_14964:4+16 of 25
+GAAATCTACGCC
+||||||||||||
+GAAATCTACGCC
+
+>cp12mer-104:0+12 of 12 bc25mer_14207:5+17 of 25
+GAGTCTCAACCT
+||||||||||||
+GAGTCTCAACCT
+
+>cp12mer-105:0+12 of 12 bc25mer_72121:7+19 of 25
+ACTCCTTCGTTC
+||||||||||||
+ACTCCTTCGTTC
+
+>cp12mer-106:0+12 of 12 bc25mer_80507:0+12 of 25
+TCGGTCTTAGTG
+||||||||||||
+TCGGTCTTAGTG
+
+>cp12mer-106:0-12 of 12 bc25mer_16746:1+13 of 25
+CACTAAGACCGA
+||||||||||||
+CACTAAGACCGA
+
+>cp12mer-106:0-12 of 12 bc25mer_153114:13+25 of 25
+CACTAAGACCGA
+||||||||||||
+CACTAAGACCGA
+
+>cp12mer-107:0+12 of 12 bc25mer_41063:5+17 of 25
+GCTTGATTAGCC
+||||||||||||
+GCTTGATTAGCC
+
+>cp12mer-108:0+12 of 12 bc25mer_5506:4+16 of 25
+TGCGATCCTAAC
+||||||||||||
+TGCGATCCTAAC
+
+>cp12mer-109:0+12 of 12 bc25mer_23892:4+16 of 25
+GTCTGTTAGGCA
+||||||||||||
+GTCTGTTAGGCA
+
+>cp12mer-110:0+12 of 12 bc25mer_208921:0+12 of 25
+CGGATAGGTGTT
+||||||||||||
+CGGATAGGTGTT
+
+>cp12mer-111:0+12 of 12 bc25mer_111581:4+16 of 25
+CATCCAAGCTCA
+||||||||||||
+CATCCAAGCTCA
+
+>cp12mer-112:0+12 of 12 bc25mer_19527:0+12 of 25
+TCTAGCGATCTG
+||||||||||||
+TCTAGCGATCTG
+
+>cp12mer-112:0+12 of 12 bc25mer_113059:2+14 of 25
+TCTAGCGATCTG
+||||||||||||
+TCTAGCGATCTG
+
+>cp12mer-112:0-12 of 12 bc25mer_154525:12+24 of 25
+CAGATCGCTAGA
+||||||||||||
+CAGATCGCTAGA
+
+>cp12mer-113:0+12 of 12 bc25mer_189566:3+15 of 25
+CATGCAAGGAGA
+||||||||||||
+CATGCAAGGAGA
+
+>cp12mer-114:0+12 of 12 bc25mer_20940:0+12 of 25
+TCTGGAGGTTTG
+||||||||||||
+TCTGGAGGTTTG
+
+>cp12mer-115:0+12 of 12 bc25mer_78928:6+18 of 25
+CTGCTTTTCCAC
+||||||||||||
+CTGCTTTTCCAC
+
+>cp12mer-116:0+12 of 12 bc25mer_40955:9+21 of 25
+GGGTCAACAGAA
+||||||||||||
+GGGTCAACAGAA
+
+>cp12mer-117:0+12 of 12 bc25mer_19794:5+17 of 25
+CCGTTCTGTTTC
+||||||||||||
+CCGTTCTGTTTC
+
+>cp12mer-118:0+12 of 12 bc25mer_108975:2+14 of 25
+AGGCTTCTAGGT
+||||||||||||
+AGGCTTCTAGGT
+
+>cp12mer-119:0+12 of 12 bc25mer_4204:3+15 of 25
+GCAAGGATCAAG
+||||||||||||
+GCAAGGATCAAG
+
+>cp12mer-119:0+12 of 12 bc25mer_117758:1+13 of 25
+GCAAGGATCAAG
+||||||||||||
+GCAAGGATCAAG
+
+>cp12mer-120:0+12 of 12 bc25mer_73136:8+20 of 25
+AACCGTATCCAC
+||||||||||||
+AACCGTATCCAC
+
+>cp12mer-120:0+12 of 12 bc25mer_204184:11+23 of 25
+AACCGTATCCAC
+||||||||||||
+AACCGTATCCAC
+
+>cp12mer-121:0+12 of 12 bc25mer_234270:3+15 of 25
+CGATTGTGGAAC
+||||||||||||
+CGATTGTGGAAC
+
+>cp12mer-121:0+12 of 12 bc25mer_22009:0+12 of 25
+CGATTGTGGAAC
+||||||||||||
+CGATTGTGGAAC
+
+>cp12mer-122:0+12 of 12 bc25mer_221806:4+16 of 25
+AGAACTGTTCCC
+||||||||||||
+AGAACTGTTCCC
+
+>cp12mer-122:0+12 of 12 bc25mer_1731:2+14 of 25
+AGAACTGTTCCC
+||||||||||||
+AGAACTGTTCCC
+
+>cp12mer-123:0+12 of 12 bc25mer_148051:2+14 of 25
+GCTAGACACCTT
+||||||||||||
+GCTAGACACCTT
+
+>cp12mer-124:0+12 of 12 bc25mer_11912:1+13 of 25
+GGCTTTTCTTCC
+||||||||||||
+GGCTTTTCTTCC
+
+>cp12mer-125:0+12 of 12 bc25mer_127516:3+15 of 25
+CGTTCAGGTTTC
+||||||||||||
+CGTTCAGGTTTC
+
+>cp12mer-126:0+12 of 12 bc25mer_1274:5+17 of 25
+TACAGGTGAGTG
+||||||||||||
+TACAGGTGAGTG
+
+>cp12mer-127:0+12 of 12 bc25mer_22132:0+12 of 25
+GTCTATGTCCGT
+||||||||||||
+GTCTATGTCCGT
+
+>cp12mer-128:0+12 of 12 bc25mer_107629:6+18 of 25
+TAACAACTCCCC
+||||||||||||
+TAACAACTCCCC
+
+>cp12mer-129:0+12 of 12 bc25mer_9878:0+12 of 25
+GAGTTACATGCC
+||||||||||||
+GAGTTACATGCC
+
+>cp12mer-130:0+12 of 12 bc25mer_90546:7+19 of 25
+TCAAGTAGCCTG
+||||||||||||
+TCAAGTAGCCTG
+
+>cp12mer-131:0+12 of 12 bc25mer_33799:2+14 of 25
+AGCTCTTAGCAC
+||||||||||||
+AGCTCTTAGCAC
+
+>cp12mer-132:0+12 of 12 bc25mer_1493:0+12 of 25
+TTCGTAGCAGAC
+||||||||||||
+TTCGTAGCAGAC
+
+>cp12mer-132:0-12 of 12 bc25mer_73679:12+24 of 25
+GTCTGCTACGAA
+||||||||||||
+GTCTGCTACGAA
+
+>cp12mer-133:0+12 of 12 bc25mer_89817:9+21 of 25
+TCGTTTCCTCTG
+||||||||||||
+TCGTTTCCTCTG
+
+>cp12mer-133:0+12 of 12 bc25mer_6825:6+18 of 25
+TCGTTTCCTCTG
+||||||||||||
+TCGTTTCCTCTG
+
+>cp12mer-134:0+12 of 12 bc25mer_42812:6+18 of 25
+GCATCAGAGGTT
+||||||||||||
+GCATCAGAGGTT
+
+>cp12mer-135:0+12 of 12 bc25mer_6632:4+16 of 25
+CGGTCTGTTACT
+||||||||||||
+CGGTCTGTTACT
+
+>cp12mer-136:0+12 of 12 bc25mer_96038:2+14 of 25
+TACCGGAAAACC
+||||||||||||
+TACCGGAAAACC
+
+>cp12mer-137:0+12 of 12 bc25mer_19087:6+18 of 25
+GATACACGCTCT
+||||||||||||
+GATACACGCTCT
+
+>cp12mer-138:0+12 of 12 bc25mer_4292:5+17 of 25
+TCCATTGTTGGG
+||||||||||||
+TCCATTGTTGGG
+
+>cp12mer-139:0+12 of 12 bc25mer_86136:1+13 of 25
+GTGTCTACGGAA
+||||||||||||
+GTGTCTACGGAA
+
+>cp12mer-139:0+12 of 12 bc25mer_38914:0+12 of 25
+GTGTCTACGGAA
+||||||||||||
+GTGTCTACGGAA
+
+>cp12mer-140:0+12 of 12 bc25mer_161157:5+17 of 25
+CGCAATTCCTTC
+||||||||||||
+CGCAATTCCTTC
+
+>cp12mer-141:0+12 of 12 bc25mer_16670:2+14 of 25
+CCCAGTCCTTTT
+||||||||||||
+CCCAGTCCTTTT
+
+>cp12mer-142:0+12 of 12 bc25mer_89260:2+14 of 25
+CCAGTACATCCA
+||||||||||||
+CCAGTACATCCA
+
+>cp12mer-143:0+12 of 12 bc25mer_14403:7+19 of 25
+CCACGTAAGACA
+||||||||||||
+CCACGTAAGACA
+
+>cp12mer-143:0-12 of 12 bc25mer_17376:8+20 of 25
+TGTCTTACGTGG
+||||||||||||
+TGTCTTACGTGG
+
+>cp12mer-144:0+12 of 12 bc25mer_23123:6+18 of 25
+AGTAGGGAGGTT
+||||||||||||
+AGTAGGGAGGTT
+
+>cp12mer-145:0+12 of 12 bc25mer_5454:6+18 of 25
+GAGACATGACCT
+||||||||||||
+GAGACATGACCT
+
+>cp12mer-146:0+12 of 12 bc25mer_99954:4+16 of 25
+CACTTTTACGCC
+||||||||||||
+CACTTTTACGCC
+
+>cp12mer-146:0+12 of 12 bc25mer_97025:0+12 of 25
+CACTTTTACGCC
+||||||||||||
+CACTTTTACGCC
+
+>cp12mer-147:0+12 of 12 bc25mer_43134:4+16 of 25
+CGGGTTCTTTTC
+||||||||||||
+CGGGTTCTTTTC
+
+>cp12mer-148:0+12 of 12 bc25mer_232748:6+18 of 25
+CCTTCTTGTGGT
+||||||||||||
+CCTTCTTGTGGT
+
+>cp12mer-149:0+12 of 12 bc25mer_13615:7+19 of 25
+GCCCCTTTAGTT
+||||||||||||
+GCCCCTTTAGTT
+
+>cp12mer-150:0+12 of 12 bc25mer_6931:0+12 of 25
+GTTTCACAGTCC
+||||||||||||
+GTTTCACAGTCC
+
+>cp12mer-151:0+12 of 12 bc25mer_2106:0+12 of 25
+AATCGTCAGTCC
+||||||||||||
+AATCGTCAGTCC
+
+>cp12mer-152:0+12 of 12 bc25mer_14489:6+18 of 25
+CGTCATGGATTG
+||||||||||||
+CGTCATGGATTG
+
+>cp12mer-153:0+12 of 12 bc25mer_12830:5+17 of 25
+GTAGAAACCCGA
+||||||||||||
+GTAGAAACCCGA
+
+>cp12mer-154:0+12 of 12 bc25mer_43619:0+12 of 25
+GGTCCATCCATT
+||||||||||||
+GGTCCATCCATT
+
+>cp12mer-155:0+12 of 12 bc25mer_4573:6+18 of 25
+GTAGCCGTACTT
+||||||||||||
+GTAGCCGTACTT
+
+>cp12mer-155:0-12 of 12 bc25mer_187:9+21 of 25
+AAGTACGGCTAC
+||||||||||||
+AAGTACGGCTAC
+
+>cp12mer-156:0+12 of 12 bc25mer_626:6+18 of 25
+TAGCAGACTTGG
+||||||||||||
+TAGCAGACTTGG
+
+>cp12mer-157:0+12 of 12 bc25mer_237173:5+17 of 25
+CCGATAGTTGGA
+||||||||||||
+CCGATAGTTGGA
+
+>cp12mer-158:0+12 of 12 bc25mer_12758:6+18 of 25
+TTCACCTAACGG
+||||||||||||
+TTCACCTAACGG
+
+>cp12mer-158:0-12 of 12 bc25mer_96581:0+12 of 25
+CCGTTAGGTGAA
+||||||||||||
+CCGTTAGGTGAA
+
+>cp12mer-159:0+12 of 12 bc25mer_101010:8+20 of 25
+ACCAGTAACACC
+||||||||||||
+ACCAGTAACACC
+
+>cp12mer-160:0+12 of 12 bc25mer_4716:2+14 of 25
+GCCAGCTAAAGA
+||||||||||||
+GCCAGCTAAAGA
+
+>cp12mer-161:0+12 of 12 bc25mer_33111:4+16 of 25
+TTCTACGACCCT
+||||||||||||
+TTCTACGACCCT
+
+>cp12mer-162:0+12 of 12 bc25mer_169822:0+12 of 25
+AGCCACATAGAC
+||||||||||||
+AGCCACATAGAC
+
+>cp12mer-162:0+12 of 12 bc25mer_142538:3+15 of 25
+AGCCACATAGAC
+||||||||||||
+AGCCACATAGAC
+
+>cp12mer-163:0+12 of 12 bc25mer_118122:0+12 of 25
+TACTGGAAACGG
+||||||||||||
+TACTGGAAACGG
+
+>cp12mer-164:0+12 of 12 bc25mer_174597:7+19 of 25
+GAAGTTCCTCGT
+||||||||||||
+GAAGTTCCTCGT
+
+>cp12mer-165:0+12 of 12 bc25mer_4465:7+19 of 25
+TTAGTAGAGCGG
+||||||||||||
+TTAGTAGAGCGG
+
+>cp12mer-165:0+12 of 12 bc25mer_221648:4+16 of 25
+TTAGTAGAGCGG
+||||||||||||
+TTAGTAGAGCGG
+
+>cp12mer-166:0+12 of 12 bc25mer_1761:2+14 of 25
+GGTATTGACCGA
+||||||||||||
+GGTATTGACCGA
+
+>cp12mer-167:0+12 of 12 bc25mer_64170:4+16 of 25
+GTGCTCTCAAGT
+||||||||||||
+GTGCTCTCAAGT
+
+>cp12mer-167:0+12 of 12 bc25mer_16054:1+13 of 25
+GTGCTCTCAAGT
+||||||||||||
+GTGCTCTCAAGT
+
+>cp12mer-168:0+12 of 12 bc25mer_1748:3+15 of 25
+GAGGCGTTATTC
+||||||||||||
+GAGGCGTTATTC
+
+>cp12mer-169:0+12 of 12 bc25mer_183564:1+13 of 25
+TCACCAGAAGTG
+||||||||||||
+TCACCAGAAGTG
+
+>cp12mer-170:0+12 of 12 bc25mer_813:2+14 of 25
+AACAGGCATCTC
+||||||||||||
+AACAGGCATCTC
+
+>cp12mer-171:0+12 of 12 bc25mer_24540:3+15 of 25
+ACGTAGAATGGG
+||||||||||||
+ACGTAGAATGGG
+
+>cp12mer-172:0+12 of 12 bc25mer_77113:0+12 of 25
+TCAGTAAGGGGT
+||||||||||||
+TCAGTAAGGGGT
+
+>cp12mer-172:0+12 of 12 bc25mer_207141:11+23 of 25
+TCAGTAAGGGGT
+||||||||||||
+TCAGTAAGGGGT
+
+>cp12mer-173:0+12 of 12 bc25mer_7776:9+21 of 25
+TGGATTTCCGAG
+||||||||||||
+TGGATTTCCGAG
+
+>cp12mer-174:0+12 of 12 bc25mer_9015:4+16 of 25
+TTCAGTAAGCCC
+||||||||||||
+TTCAGTAAGCCC
+
+>cp12mer-175:0+12 of 12 bc25mer_80881:7+19 of 25
+CGTTGACGTATC
+||||||||||||
+CGTTGACGTATC
+
+>cp12mer-176:0+12 of 12 bc25mer_20866:4+16 of 25
+TAGGGCAATCTC
+||||||||||||
+TAGGGCAATCTC
+
+>cp12mer-176:0+12 of 12 bc25mer_150450:0+12 of 25
+TAGGGCAATCTC
+||||||||||||
+TAGGGCAATCTC
+
+>cp12mer-177:0+12 of 12 bc25mer_60389:10+22 of 25
+CAGAACCACAAC
+||||||||||||
+CAGAACCACAAC
+
+>cp12mer-178:0+12 of 12 bc25mer_182:7+19 of 25
+GTTCCCACATCA
+||||||||||||
+GTTCCCACATCA
+
+>cp12mer-179:0+12 of 12 bc25mer_28897:6+18 of 25
+TTAATCTCGCCC
+||||||||||||
+TTAATCTCGCCC
+
+>cp12mer-180:0+12 of 12 bc25mer_28491:7+19 of 25
+GACAGGGTTTGA
+||||||||||||
+GACAGGGTTTGA
+
+>cp12mer-180:0+12 of 12 bc25mer_237:6+18 of 25
+GACAGGGTTTGA
+||||||||||||
+GACAGGGTTTGA
+
+>cp12mer-181:0+12 of 12 bc25mer_98874:10+22 of 25
+ACCTTGGGTTTC
+||||||||||||
+ACCTTGGGTTTC
+
+>cp12mer-181:0+12 of 12 bc25mer_64848:2+14 of 25
+ACCTTGGGTTTC
+||||||||||||
+ACCTTGGGTTTC
+
+>cp12mer-182:0+12 of 12 bc25mer_6923:0+12 of 25
+GAATCTTCCCGT
+||||||||||||
+GAATCTTCCCGT
+
+>cp12mer-183:0+12 of 12 bc25mer_7640:2+14 of 25
+GAAGTCTTTGCC
+||||||||||||
+GAAGTCTTTGCC
+
+>cp12mer-183:0-12 of 12 bc25mer_107417:4+16 of 25
+GGCAAAGACTTC
+||||||||||||
+GGCAAAGACTTC
+
+>cp12mer-184:0+12 of 12 bc25mer_132701:1+13 of 25
+AGTTTAGCGGAG
+||||||||||||
+AGTTTAGCGGAG
+
+>cp12mer-185:0+12 of 12 bc25mer_8422:1+13 of 25
+ATATCCGTCTGG
+||||||||||||
+ATATCCGTCTGG
+
+>cp12mer-186:0+12 of 12 bc25mer_219095:1+13 of 25
+GTCTCTCACGAA
+||||||||||||
+GTCTCTCACGAA
+
+>cp12mer-187:0+12 of 12 bc25mer_76195:6+18 of 25
+ACATACGGACAG
+||||||||||||
+ACATACGGACAG
+
+>cp12mer-188:0+12 of 12 bc25mer_1970:1+13 of 25
+GCAATACATGGG
+||||||||||||
+GCAATACATGGG
+
+>cp12mer-188:0+12 of 12 bc25mer_155746:0+12 of 25
+GCAATACATGGG
+||||||||||||
+GCAATACATGGG
+
+>cp12mer-189:0+12 of 12 bc25mer_4664:1+13 of 25
+TACTGGCTGTTG
+||||||||||||
+TACTGGCTGTTG
+
+>cp12mer-189:0+12 of 12 bc25mer_182895:6+18 of 25
+TACTGGCTGTTG
+||||||||||||
+TACTGGCTGTTG
+
+>cp12mer-190:0+12 of 12 bc25mer_5733:3+15 of 25
+CATCTTGAGGCA
+||||||||||||
+CATCTTGAGGCA
+
+>cp12mer-191:0+12 of 12 bc25mer_160756:3+15 of 25
+CTCATCTTCGCT
+||||||||||||
+CTCATCTTCGCT
+
+>cp12mer-192:0+12 of 12 bc25mer_52026:7+19 of 25
+CGGCTTATTGTC
+||||||||||||
+CGGCTTATTGTC
+
+>cp12mer-192:0+12 of 12 bc25mer_152888:13+25 of 25
+CGGCTTATTGTC
+||||||||||||
+CGGCTTATTGTC
+
+>cp12mer-193:0+12 of 12 bc25mer_10330:9+21 of 25
+AAAACCTCTGGG
+||||||||||||
+AAAACCTCTGGG
+
+>cp12mer-194:0+12 of 12 bc25mer_77446:7+19 of 25
+GAGGATTGCTGT
+||||||||||||
+GAGGATTGCTGT
+
+>cp12mer-195:0+12 of 12 bc25mer_2759:0+12 of 25
+TTCAAAGGGGAC
+||||||||||||
+TTCAAAGGGGAC
+
+>cp12mer-196:0+12 of 12 bc25mer_1870:2+14 of 25
+CCATTGACACAC
+||||||||||||
+CCATTGACACAC
+
+>cp12mer-197:0+12 of 12 bc25mer_131286:2+14 of 25
+TATACGTGGTGG
+||||||||||||
+TATACGTGGTGG
+
+>cp12mer-198:0+12 of 12 bc25mer_586:1+13 of 25
+ACTTGACGAGAC
+||||||||||||
+ACTTGACGAGAC
+
+>cp12mer-198:0+12 of 12 bc25mer_181214:12+24 of 25
+ACTTGACGAGAC
+||||||||||||
+ACTTGACGAGAC
+
+>cp12mer-199:0+12 of 12 bc25mer_17062:6+18 of 25
+TATGTCGTGGTC
+||||||||||||
+TATGTCGTGGTC
+
+>cp12mer-200:0+12 of 12 bc25mer_61592:6+18 of 25
+ACCGAATCCTAC
+||||||||||||
+ACCGAATCCTAC
+
+>cp12mer-201:0+12 of 12 bc25mer_203776:5+17 of 25
+GATGGAAGCAAG
+||||||||||||
+GATGGAAGCAAG
+
+>cp12mer-202:0+12 of 12 bc25mer_76622:7+19 of 25
+GTAAAAGCCCAC
+||||||||||||
+GTAAAAGCCCAC
+
+>cp12mer-202:0+12 of 12 bc25mer_129884:4+16 of 25
+GTAAAAGCCCAC
+||||||||||||
+GTAAAAGCCCAC
+
+>cp12mer-203:0+12 of 12 bc25mer_84022:2+14 of 25
+GTAATGAAGCGG
+||||||||||||
+GTAATGAAGCGG
+
+>cp12mer-204:0+12 of 12 bc25mer_64903:5+17 of 25
+TTTCGGGTGTAG
+||||||||||||
+TTTCGGGTGTAG
+
+>cp12mer-204:0+12 of 12 bc25mer_1447:7+19 of 25
+TTTCGGGTGTAG
+||||||||||||
+TTTCGGGTGTAG
+
+>cp12mer-205:0+12 of 12 bc25mer_181598:4+16 of 25
+CTCAAAGCCAGA
+||||||||||||
+CTCAAAGCCAGA
+
+>cp12mer-206:0+12 of 12 bc25mer_46628:2+14 of 25
+ATGTGTACAGGG
+||||||||||||
+ATGTGTACAGGG
+
+>cp12mer-206:0+12 of 12 bc25mer_1875:4+16 of 25
+ATGTGTACAGGG
+||||||||||||
+ATGTGTACAGGG
+
+>cp12mer-207:0+12 of 12 bc25mer_89237:7+19 of 25
+GATCTTGCCTCA
+||||||||||||
+GATCTTGCCTCA
+
+>cp12mer-208:0+12 of 12 bc25mer_97247:7+19 of 25
+GGGCAAGAAATG
+||||||||||||
+GGGCAAGAAATG
+
+>cp12mer-209:0+12 of 12 bc25mer_49347:4+16 of 25
+TCTGATGCAGTC
+||||||||||||
+TCTGATGCAGTC
+
+>cp12mer-210:0+12 of 12 bc25mer_237992:8+20 of 25
+GCCTCAGAAAAG
+||||||||||||
+GCCTCAGAAAAG
+
+>cp12mer-210:0-12 of 12 bc25mer_229815:8+20 of 25
+CTTTTCTGAGGC
+||||||||||||
+CTTTTCTGAGGC
+
+>cp12mer-211:0+12 of 12 bc25mer_57338:3+15 of 25
+CCAATCGGTAGA
+||||||||||||
+CCAATCGGTAGA
+
+>cp12mer-211:0+12 of 12 bc25mer_128762:2+14 of 25
+CCAATCGGTAGA
+||||||||||||
+CCAATCGGTAGA
+
+>cp12mer-212:0+12 of 12 bc25mer_118053:3+15 of 25
+AGAACAGATGCC
+||||||||||||
+AGAACAGATGCC
+
+>cp12mer-212:0-12 of 12 bc25mer_75223:12+24 of 25
+GGCATCTGTTCT
+||||||||||||
+GGCATCTGTTCT
+
+>cp12mer-213:0+12 of 12 bc25mer_8923:4+16 of 25
+GCACTACTGACT
+||||||||||||
+GCACTACTGACT
+
+>cp12mer-214:0+12 of 12 bc25mer_30361:5+17 of 25
+CGACCTTTTCTG
+||||||||||||
+CGACCTTTTCTG
+
+>cp12mer-215:0+12 of 12 bc25mer_1728:4+16 of 25
+ACCCGTAAACTC
+||||||||||||
+ACCCGTAAACTC
+
+>cp12mer-215:0-12 of 12 bc25mer_62640:10+22 of 25
+GAGTTTACGGGT
+||||||||||||
+GAGTTTACGGGT
+
+>cp12mer-216:0+12 of 12 bc25mer_154189:4+16 of 25
+AATGAACTGGGG
+||||||||||||
+AATGAACTGGGG
+
+>cp12mer-217:0+12 of 12 bc25mer_131666:2+14 of 25
+CGTTGGCTATTC
+||||||||||||
+CGTTGGCTATTC
+
+>cp12mer-218:0+12 of 12 bc25mer_56881:13+25 of 25
+TGAATGCCTCTG
+||||||||||||
+TGAATGCCTCTG
+
+>cp12mer-218:0+12 of 12 bc25mer_202176:7+19 of 25
+TGAATGCCTCTG
+||||||||||||
+TGAATGCCTCTG
+
+>cp12mer-219:0+12 of 12 bc25mer_46684:5+17 of 25
+GTTGCTGATGTG
+||||||||||||
+GTTGCTGATGTG
+
+>cp12mer-220:0+12 of 12 bc25mer_34073:3+15 of 25
+CAAAGGATGGGT
+||||||||||||
+CAAAGGATGGGT
+
+>cp12mer-221:0+12 of 12 bc25mer_123084:6+18 of 25
+TCAAGACCACAG
+||||||||||||
+TCAAGACCACAG
+
+>cp12mer-222:0+12 of 12 bc25mer_210242:2+14 of 25
+ATGCTACTTCCC
+||||||||||||
+ATGCTACTTCCC
+
+>cp12mer-223:0+12 of 12 bc25mer_112454:4+16 of 25
+AGAAAGAGCTGG
+||||||||||||
+AGAAAGAGCTGG
+
+>cp12mer-224:0+12 of 12 bc25mer_42483:4+16 of 25
+GCCAGGATGATT
+||||||||||||
+GCCAGGATGATT
+
+>cp12mer-225:0+12 of 12 bc25mer_49422:13+25 of 25
+CTGATCGCTACT
+||||||||||||
+CTGATCGCTACT
+
+>cp12mer-225:0+12 of 12 bc25mer_25334:5+17 of 25
+CTGATCGCTACT
+||||||||||||
+CTGATCGCTACT
+
+>cp12mer-226:0+12 of 12 bc25mer_39234:5+17 of 25
+GAGGTCAACTCT
+||||||||||||
+GAGGTCAACTCT
+
+>cp12mer-227:0+12 of 12 bc25mer_5581:2+14 of 25
+GAGCAGTCAAAG
+||||||||||||
+GAGCAGTCAAAG
+
+>cp12mer-228:0+12 of 12 bc25mer_49670:7+19 of 25
+GGCCATTCTTTG
+||||||||||||
+GGCCATTCTTTG
+
+>cp12mer-229:0+12 of 12 bc25mer_100446:2+14 of 25
+TCCATGTAGCAC
+||||||||||||
+TCCATGTAGCAC
+
+>cp12mer-230:0+12 of 12 bc25mer_575:2+14 of 25
+GCATTTACGGAC
+||||||||||||
+GCATTTACGGAC
+
+>cp12mer-231:0+12 of 12 bc25mer_9011:1+13 of 25
+GTCGAATGTCAG
+||||||||||||
+GTCGAATGTCAG
+
+>cp12mer-231:0-12 of 12 bc25mer_185706:2+14 of 25
+CTGACATTCGAC
+||||||||||||
+CTGACATTCGAC
+
+>cp12mer-232:0+12 of 12 bc25mer_85233:1+13 of 25
+CAGCGTTATCAG
+||||||||||||
+CAGCGTTATCAG
+
+>cp12mer-232:0+12 of 12 bc25mer_1333:2+14 of 25
+CAGCGTTATCAG
+||||||||||||
+CAGCGTTATCAG
+
+>cp12mer-233:0+12 of 12 bc25mer_1001:3+15 of 25
+CTCCCGGATTTT
+||||||||||||
+CTCCCGGATTTT
+
+>cp12mer-234:0+12 of 12 bc25mer_132817:0+12 of 25
+CGTCGATAAGGT
+||||||||||||
+CGTCGATAAGGT
+
+>cp12mer-235:0+12 of 12 bc25mer_227375:5+17 of 25
+TACAACCTGACC
+||||||||||||
+TACAACCTGACC
+
+>cp12mer-236:0+12 of 12 bc25mer_77971:2+14 of 25
+CGAAGATGTGTG
+||||||||||||
+CGAAGATGTGTG
+
+>cp12mer-237:0+12 of 12 bc25mer_200099:8+20 of 25
+GAAAAGCATCGG
+||||||||||||
+GAAAAGCATCGG
+
+>cp12mer-237:0+12 of 12 bc25mer_147954:13+25 of 25
+GAAAAGCATCGG
+||||||||||||
+GAAAAGCATCGG
+
+>cp12mer-238:0+12 of 12 bc25mer_2968:3+15 of 25
+TCCGGATTACCT
+||||||||||||
+TCCGGATTACCT
+
+>cp12mer-238:0-12 of 12 bc25mer_28059:5+17 of 25
+AGGTAATCCGGA
+||||||||||||
+AGGTAATCCGGA
+
+>cp12mer-239:0+12 of 12 bc25mer_67272:9+21 of 25
+TAGCGTTAGGTC
+||||||||||||
+TAGCGTTAGGTC
+
+>cp12mer-239:0+12 of 12 bc25mer_50160:7+19 of 25
+TAGCGTTAGGTC
+||||||||||||
+TAGCGTTAGGTC
+
+>cp12mer-239:0-12 of 12 bc25mer_80123:3+15 of 25
+GACCTAACGCTA
+||||||||||||
+GACCTAACGCTA
+
+>cp12mer-240:0+12 of 12 bc25mer_4029:7+19 of 25
+TCTGTGGCTTAC
+||||||||||||
+TCTGTGGCTTAC
+
+>cp12mer-240:0-12 of 12 bc25mer_116775:4+16 of 25
+GTAAGCCACAGA
+||||||||||||
+GTAAGCCACAGA
+
+>cp12mer-241:0+12 of 12 bc25mer_100208:5+17 of 25
+AGGCTCTCTACT
+||||||||||||
+AGGCTCTCTACT
+
+>cp12mer-242:0+12 of 12 bc25mer_26471:2+14 of 25
+CTGTTTTAGCCC
+||||||||||||
+CTGTTTTAGCCC
+
+>cp12mer-243:0+12 of 12 bc25mer_1545:5+17 of 25
+ATCGGTTAGTCC
+||||||||||||
+ATCGGTTAGTCC
+
+>cp12mer-244:0+12 of 12 bc25mer_238866:5+17 of 25
+TGTAGCCCTTAC
+||||||||||||
+TGTAGCCCTTAC
+
+>cp12mer-245:0+12 of 12 bc25mer_77063:5+17 of 25
+TGTAAACACCCC
+||||||||||||
+TGTAAACACCCC
+
+>cp12mer-246:0+12 of 12 bc25mer_8965:3+15 of 25
+TCGATTGTACCC
+||||||||||||
+TCGATTGTACCC
+
+>cp12mer-247:0+12 of 12 bc25mer_223806:2+14 of 25
+AGTGTTTCTGGG
+||||||||||||
+AGTGTTTCTGGG
+
+>cp12mer-248:0+12 of 12 bc25mer_1456:7+19 of 25
+TACAGGGTTCCA
+||||||||||||
+TACAGGGTTCCA
+
+>cp12mer-249:0+12 of 12 bc25mer_92223:5+17 of 25
+GGAGATGCGTAA
+||||||||||||
+GGAGATGCGTAA
+
+>cp12mer-250:0+12 of 12 bc25mer_4231:5+17 of 25
+GCCAATAAGGGA
+||||||||||||
+GCCAATAAGGGA
+
+>cp12mer-251:0+12 of 12 bc25mer_2867:1+13 of 25
+AAACTAGGTGGG
+||||||||||||
+AAACTAGGTGGG
+
+>cp12mer-252:0+12 of 12 bc25mer_225975:2+14 of 25
+TCTCATCTCCCT
+||||||||||||
+TCTCATCTCCCT
+
+>cp12mer-252:0+12 of 12 bc25mer_185969:0+12 of 25
+TCTCATCTCCCT
+||||||||||||
+TCTCATCTCCCT
+
+>cp12mer-253:0+12 of 12 bc25mer_43735:6+18 of 25
+AAAGGAATCGGG
+||||||||||||
+AAAGGAATCGGG
+
+>cp12mer-254:0+12 of 12 bc25mer_9618:7+19 of 25
+GATCAAACGGAC
+||||||||||||
+GATCAAACGGAC
+
+>cp12mer-255:0+12 of 12 bc25mer_2429:0+12 of 25
+TGCTATCAGTGG
+||||||||||||
+TGCTATCAGTGG
+
+>cp12mer-256:0+12 of 12 bc25mer_14142:5+17 of 25
+ACTTCTGACTCC
+||||||||||||
+ACTTCTGACTCC
+
+>cp12mer-257:0+12 of 12 bc25mer_18546:3+15 of 25
+ACCTAGTCCCAA
+||||||||||||
+ACCTAGTCCCAA
+
+>cp12mer-258:0+12 of 12 bc25mer_174496:6+18 of 25
+GATCCAAACCAC
+||||||||||||
+GATCCAAACCAC
+
+>cp12mer-259:0+12 of 12 bc25mer_11854:7+19 of 25
+GAGCGACTGTAA
+||||||||||||
+GAGCGACTGTAA
+
+>cp12mer-259:0-12 of 12 bc25mer_107401:0+12 of 25
+TTACAGTCGCTC
+||||||||||||
+TTACAGTCGCTC
+
+>cp12mer-260:0+12 of 12 bc25mer_34450:5+17 of 25
+GAGTTCGGGTAA
+||||||||||||
+GAGTTCGGGTAA
+
+>cp12mer-261:0+12 of 12 bc25mer_187693:0+12 of 25
+CGTGACTTTGTG
+||||||||||||
+CGTGACTTTGTG
+
+>cp12mer-261:0+12 of 12 bc25mer_10950:10+22 of 25
+CGTGACTTTGTG
+||||||||||||
+CGTGACTTTGTG
+
+>cp12mer-262:0+12 of 12 bc25mer_443:2+14 of 25
+ATGTCCAACCAG
+||||||||||||
+ATGTCCAACCAG
+
+>cp12mer-263:0+12 of 12 bc25mer_16393:6+18 of 25
+CGATGAACCTCT
+||||||||||||
+CGATGAACCTCT
+
+>cp12mer-264:0+12 of 12 bc25mer_185458:7+19 of 25
+GCAACGAAGAAG
+||||||||||||
+GCAACGAAGAAG
+
+>cp12mer-265:0+12 of 12 bc25mer_41961:0+12 of 25
+TGCAAGAGGATG
+||||||||||||
+TGCAAGAGGATG
+
+>cp12mer-266:0+12 of 12 bc25mer_21687:3+15 of 25
+CAATCCTTCGTC
+||||||||||||
+CAATCCTTCGTC
+
+>cp12mer-267:0+12 of 12 bc25mer_35228:3+15 of 25
+AGTGAAACCCAG
+||||||||||||
+AGTGAAACCCAG
+
+>cp12mer-268:0+12 of 12 bc25mer_83018:3+15 of 25
+GGTTGGAAACAC
+||||||||||||
+GGTTGGAAACAC
+
+>cp12mer-268:0-12 of 12 bc25mer_188814:0+12 of 25
+GTGTTTCCAACC
+||||||||||||
+GTGTTTCCAACC
+
+>cp12mer-269:0+12 of 12 bc25mer_57435:6+18 of 25
+GGGTTCCAGATT
+||||||||||||
+GGGTTCCAGATT
+
+>cp12mer-269:0+12 of 12 bc25mer_21844:8+20 of 25
+GGGTTCCAGATT
+||||||||||||
+GGGTTCCAGATT
+
+>cp12mer-270:0+12 of 12 bc25mer_54352:6+18 of 25
+ACCTTTCTGCTC
+||||||||||||
+ACCTTTCTGCTC
+
+>cp12mer-271:0+12 of 12 bc25mer_20192:8+20 of 25
+TTGGGGTTAGTC
+||||||||||||
+TTGGGGTTAGTC
+
+>cp12mer-272:0+12 of 12 bc25mer_32037:9+21 of 25
+GTAACTTGTGCC
+||||||||||||
+GTAACTTGTGCC
+
+>cp12mer-273:0+12 of 12 bc25mer_220542:7+19 of 25
+TGAGAAGTACGG
+||||||||||||
+TGAGAAGTACGG
+
+>cp12mer-273:0-12 of 12 bc25mer_90450:12+24 of 25
+CCGTACTTCTCA
+||||||||||||
+CCGTACTTCTCA
+
+>cp12mer-274:0+12 of 12 bc25mer_63817:3+15 of 25
+ATATTGAGCCCC
+||||||||||||
+ATATTGAGCCCC
+
+>cp12mer-274:0-12 of 12 bc25mer_201833:8+20 of 25
+GGGGCTCAATAT
+||||||||||||
+GGGGCTCAATAT
+
+>cp12mer-275:0+12 of 12 bc25mer_113485:6+18 of 25
+CCTTGCTCCTTT
+||||||||||||
+CCTTGCTCCTTT
+
+>cp12mer-276:0+12 of 12 bc25mer_3845:8+20 of 25
+TCGTGTCTAACC
+||||||||||||
+TCGTGTCTAACC
+
+>cp12mer-276:0-12 of 12 bc25mer_97177:0+12 of 25
+GGTTAGACACGA
+||||||||||||
+GGTTAGACACGA
+
+>cp12mer-277:0+12 of 12 bc25mer_7935:0+12 of 25
+TCTAAGGTTGCC
+||||||||||||
+TCTAAGGTTGCC
+
+>cp12mer-278:0+12 of 12 bc25mer_13063:1+13 of 25
+CAGACGAGGTAA
+||||||||||||
+CAGACGAGGTAA
+
+>cp12mer-279:0+12 of 12 bc25mer_22257:1+13 of 25
+GAGCGTATGAGA
+||||||||||||
+GAGCGTATGAGA
+
+>cp12mer-280:0+12 of 12 bc25mer_2751:7+19 of 25
+ACGATCTGGTAG
+||||||||||||
+ACGATCTGGTAG
+
+>cp12mer-281:0+12 of 12 bc25mer_76951:5+17 of 25
+GCGTGAACATAC
+||||||||||||
+GCGTGAACATAC
+
+>cp12mer-282:0+12 of 12 bc25mer_103779:5+17 of 25
+AAATGGAAGGGG
+||||||||||||
+AAATGGAAGGGG
+
+>cp12mer-283:0+12 of 12 bc25mer_59890:0+12 of 25
+GACACGTGATTG
+||||||||||||
+GACACGTGATTG
+
+>cp12mer-283:0-12 of 12 bc25mer_86186:13+25 of 25
+CAATCACGTGTC
+||||||||||||
+CAATCACGTGTC
+
+>cp12mer-283:0-12 of 12 bc25mer_18754:9+21 of 25
+CAATCACGTGTC
+||||||||||||
+CAATCACGTGTC
+
+>cp12mer-284:0+12 of 12 bc25mer_126708:8+20 of 25
+TACCCCAACATC
+||||||||||||
+TACCCCAACATC
+
+>cp12mer-285:0+12 of 12 bc25mer_20849:9+21 of 25
+CCCAGTTCGATT
+||||||||||||
+CCCAGTTCGATT
+
+>cp12mer-286:0+12 of 12 bc25mer_18790:10+22 of 25
+CTAATGCAACCC
+||||||||||||
+CTAATGCAACCC
+
+>cp12mer-287:0+12 of 12 bc25mer_92081:7+19 of 25
+TCCTTTCGCTAC
+||||||||||||
+TCCTTTCGCTAC
+
+>cp12mer-288:0+12 of 12 bc25mer_97086:5+17 of 25
+ACTGTCACCTAC
+||||||||||||
+ACTGTCACCTAC
+
+>cp12mer-288:0+12 of 12 bc25mer_7654:5+17 of 25
+ACTGTCACCTAC
+||||||||||||
+ACTGTCACCTAC
+
+>cp12mer-289:0+12 of 12 bc25mer_204:5+17 of 25
+TCGATATGCTGG
+||||||||||||
+TCGATATGCTGG
+
+>cp12mer-290:0+12 of 12 bc25mer_138047:3+15 of 25
+TGTGTTCCCTTC
+||||||||||||
+TGTGTTCCCTTC
+
+>cp12mer-291:0+12 of 12 bc25mer_57999:0+12 of 25
+AGTACGTCAAGG
+||||||||||||
+AGTACGTCAAGG
+
+>cp12mer-292:0+12 of 12 bc25mer_81132:0+12 of 25
+TCGTAGATCGTG
+||||||||||||
+TCGTAGATCGTG
+
+>cp12mer-292:0+12 of 12 bc25mer_68578:3+15 of 25
+TCGTAGATCGTG
+||||||||||||
+TCGTAGATCGTG
+
+>cp12mer-293:0+12 of 12 bc25mer_14520:4+16 of 25
+CACTCTACAGCA
+||||||||||||
+CACTCTACAGCA
+
+>cp12mer-294:0+12 of 12 bc25mer_49206:6+18 of 25
+AGCTACCATGAG
+||||||||||||
+AGCTACCATGAG
+
+>cp12mer-295:0+12 of 12 bc25mer_42660:4+16 of 25
+GTTGACGGTATG
+||||||||||||
+GTTGACGGTATG
+
+>cp12mer-296:0+12 of 12 bc25mer_186424:4+16 of 25
+ATCCTCACAGAC
+||||||||||||
+ATCCTCACAGAC
+
+>cp12mer-297:0+12 of 12 bc25mer_12128:5+17 of 25
+GACATCCCATCT
+||||||||||||
+GACATCCCATCT
+
+>cp12mer-298:0+12 of 12 bc25mer_4965:6+18 of 25
+AGTGGAAAGGAC
+||||||||||||
+AGTGGAAAGGAC
+
+>cp12mer-299:0+12 of 12 bc25mer_342:0+12 of 25
+GACAGTCAGGTT
+||||||||||||
+GACAGTCAGGTT
+
+>cp12mer-300:0+12 of 12 bc25mer_12301:1+13 of 25
+TAGATCGGTGGA
+||||||||||||
+TAGATCGGTGGA
+
+>cp12mer-300:0-12 of 12 bc25mer_195542:6+18 of 25
+TCCACCGATCTA
+||||||||||||
+TCCACCGATCTA
+
+>cp12mer-301:0+12 of 12 bc25mer_2503:3+15 of 25
+CTCTTAAGCGTG
+||||||||||||
+CTCTTAAGCGTG
+
+>cp12mer-302:0+12 of 12 bc25mer_25239:6+18 of 25
+TCGGCTTCATAG
+||||||||||||
+TCGGCTTCATAG
+
+>cp12mer-303:0+12 of 12 bc25mer_89483:6+18 of 25
+TCTGGTGTAGTG
+||||||||||||
+TCTGGTGTAGTG
+
+>cp12mer-304:0+12 of 12 bc25mer_237829:7+19 of 25
+TTCCCCTCCTTT
+||||||||||||
+TTCCCCTCCTTT
+
+>cp12mer-305:0+12 of 12 bc25mer_2380:3+15 of 25
+CAATCTGGTTGG
+||||||||||||
+CAATCTGGTTGG
+
+>cp12mer-306:0+12 of 12 bc25mer_3959:0+12 of 25
+CAGGTCGGTATT
+||||||||||||
+CAGGTCGGTATT
+
+>cp12mer-307:0+12 of 12 bc25mer_8139:4+16 of 25
+GCATGGTGTATG
+||||||||||||
+GCATGGTGTATG
+
+>cp12mer-308:0+12 of 12 bc25mer_39680:1+13 of 25
+TTACACACCACC
+||||||||||||
+TTACACACCACC
+
+>cp12mer-309:0+12 of 12 bc25mer_214241:2+14 of 25
+CGAAGATCACAC
+||||||||||||
+CGAAGATCACAC
+
+>cp12mer-310:0+12 of 12 bc25mer_119903:1+13 of 25
+TGACTAGACCCT
+||||||||||||
+TGACTAGACCCT
+
+>cp12mer-311:0+12 of 12 bc25mer_5859:8+20 of 25
+GGTTAGCAGACA
+||||||||||||
+GGTTAGCAGACA
+
+>cp12mer-312:0+12 of 12 bc25mer_105768:4+16 of 25
+ATCGGAACAAGG
+||||||||||||
+ATCGGAACAAGG
+
+>cp12mer-313:0+12 of 12 bc25mer_87372:6+18 of 25
+TTAATGCCCCTC
+||||||||||||
+TTAATGCCCCTC
+
+>cp12mer-314:0+12 of 12 bc25mer_6384:7+19 of 25
+CGATTTACACGG
+||||||||||||
+CGATTTACACGG
+
+>cp12mer-315:0+12 of 12 bc25mer_101265:4+16 of 25
+TTTCCTCCCTTG
+||||||||||||
+TTTCCTCCCTTG
+
+>cp12mer-316:0+12 of 12 bc25mer_225452:6+18 of 25
+CTTGGCCTTTTC
+||||||||||||
+CTTGGCCTTTTC
+
+>cp12mer-317:0+12 of 12 bc25mer_6593:8+20 of 25
+TCGGAATTAGGG
+||||||||||||
+TCGGAATTAGGG
+
+>cp12mer-318:0+12 of 12 bc25mer_68671:2+14 of 25
+CGTTAGCCTTTC
+||||||||||||
+CGTTAGCCTTTC
+
+>cp12mer-319:0+12 of 12 bc25mer_47620:5+17 of 25
+GTGTTGTCGTTC
+||||||||||||
+GTGTTGTCGTTC
+
+>cp12mer-320:0+12 of 12 bc25mer_144495:3+15 of 25
+TCTCGTAACTGG
+||||||||||||
+TCTCGTAACTGG
+
+>cp12mer-321:0+12 of 12 bc25mer_8026:0+12 of 25
+CTTTGCAGATGG
+||||||||||||
+CTTTGCAGATGG
+
+>cp12mer-321:0+12 of 12 bc25mer_227576:8+20 of 25
+CTTTGCAGATGG
+||||||||||||
+CTTTGCAGATGG
+
+>cp12mer-322:0+12 of 12 bc25mer_84225:4+16 of 25
+GGCGCTTATTTC
+||||||||||||
+GGCGCTTATTTC
+
+>cp12mer-323:0+12 of 12 bc25mer_182948:6+18 of 25
+ATCCCTACTCCA
+||||||||||||
+ATCCCTACTCCA
+
+>cp12mer-324:0+12 of 12 bc25mer_50762:0+12 of 25
+TCTCGTTCTCAC
+||||||||||||
+TCTCGTTCTCAC
+
+>cp12mer-325:0+12 of 12 bc25mer_107810:4+16 of 25
+TATCTAGTGCGG
+||||||||||||
+TATCTAGTGCGG
+
+>cp12mer-326:0+12 of 12 bc25mer_27755:11+23 of 25
+GCATTAGCCTTG
+||||||||||||
+GCATTAGCCTTG
+
+>cp12mer-327:0+12 of 12 bc25mer_714:4+16 of 25
+TGTTCGACCTAC
+||||||||||||
+TGTTCGACCTAC
+
+>cp12mer-328:0+12 of 12 bc25mer_38902:9+21 of 25
+GCACCGTTAATC
+||||||||||||
+GCACCGTTAATC
+
+>cp12mer-328:0-12 of 12 bc25mer_135881:0+12 of 25
+GATTAACGGTGC
+||||||||||||
+GATTAACGGTGC
+
+>cp12mer-329:0+12 of 12 bc25mer_42136:3+15 of 25
+GTTTCTGCCAAC
+||||||||||||
+GTTTCTGCCAAC
+
+>cp12mer-329:0-12 of 12 bc25mer_13042:13+25 of 25
+GTTGGCAGAAAC
+||||||||||||
+GTTGGCAGAAAC
+
+>cp12mer-330:0+12 of 12 bc25mer_2608:5+17 of 25
+TCCTTAGGTCGT
+||||||||||||
+TCCTTAGGTCGT
+
+>cp12mer-330:0+12 of 12 bc25mer_217896:12+24 of 25
+TCCTTAGGTCGT
+||||||||||||
+TCCTTAGGTCGT
+
+>cp12mer-331:0+12 of 12 bc25mer_33630:1+13 of 25
+GCTAGGCAAATC
+||||||||||||
+GCTAGGCAAATC
+
+>cp12mer-331:0+12 of 12 bc25mer_152760:0+12 of 25
+GCTAGGCAAATC
+||||||||||||
+GCTAGGCAAATC
+
+>cp12mer-332:0+12 of 12 bc25mer_486:5+17 of 25
+TACTCCCCTCAA
+||||||||||||
+TACTCCCCTCAA
+
+>cp12mer-333:0+12 of 12 bc25mer_19891:4+16 of 25
+TTAGGAGGGTGT
+||||||||||||
+TTAGGAGGGTGT
+
+>cp12mer-334:0+12 of 12 bc25mer_2781:3+15 of 25
+AATTGACTCCCC
+||||||||||||
+AATTGACTCCCC
+
+>cp12mer-335:0+12 of 12 bc25mer_31004:9+21 of 25
+CATAAACCGGAC
+||||||||||||
+CATAAACCGGAC
+
+>cp12mer-335:0-12 of 12 bc25mer_127503:2+14 of 25
+GTCCGGTTTATG
+||||||||||||
+GTCCGGTTTATG
+
+>cp12mer-336:0+12 of 12 bc25mer_232964:8+20 of 25
+CATTCACTCGTC
+||||||||||||
+CATTCACTCGTC
+
+>cp12mer-337:0+12 of 12 bc25mer_119333:6+18 of 25
+GTTGGGGTAGAA
+||||||||||||
+GTTGGGGTAGAA
+
+>cp12mer-338:0+12 of 12 bc25mer_41650:0+12 of 25
+AGACGTAAACCC
+||||||||||||
+AGACGTAAACCC
+
+>cp12mer-339:0+12 of 12 bc25mer_14617:1+13 of 25
+TACATACGGGGT
+||||||||||||
+TACATACGGGGT
+
+>cp12mer-340:0+12 of 12 bc25mer_45588:6+18 of 25
+GGATTGTTGTCC
+||||||||||||
+GGATTGTTGTCC
+
+>cp12mer-341:0+12 of 12 bc25mer_25660:7+19 of 25
+CACTTGAATGCC
+||||||||||||
+CACTTGAATGCC
+
+>cp12mer-342:0+12 of 12 bc25mer_185272:2+14 of 25
+ACAGACCATCAC
+||||||||||||
+ACAGACCATCAC
+
+>cp12mer-343:0+12 of 12 bc25mer_13839:6+18 of 25
+CACCGTAAAGAC
+||||||||||||
+CACCGTAAAGAC
+
+>cp12mer-344:0+12 of 12 bc25mer_223501:2+14 of 25
+ACATTTCTCCCC
+||||||||||||
+ACATTTCTCCCC
+
+>cp12mer-345:0+12 of 12 bc25mer_39707:4+16 of 25
+GGATGAATGGCT
+||||||||||||
+GGATGAATGGCT
+
+>cp12mer-346:0+12 of 12 bc25mer_185289:6+18 of 25
+CCTTTCCCTCAA
+||||||||||||
+CCTTTCCCTCAA
+
+>cp12mer-347:0+12 of 12 bc25mer_1009:5+17 of 25
+CCCTACGATTGA
+||||||||||||
+CCCTACGATTGA
+
+>cp12mer-348:0+12 of 12 bc25mer_114484:9+21 of 25
+CGAAAATGGGAG
+||||||||||||
+CGAAAATGGGAG
+
+>cp12mer-349:0+12 of 12 bc25mer_62441:5+17 of 25
+CGAAGGATAGCA
+||||||||||||
+CGAAGGATAGCA
+
+>cp12mer-350:0+12 of 12 bc25mer_80017:5+17 of 25
+CCGTTTGTGAAG
+||||||||||||
+CCGTTTGTGAAG
+
+>cp12mer-351:0+12 of 12 bc25mer_91026:7+19 of 25
+CTTTCGCATTCC
+||||||||||||
+CTTTCGCATTCC
+
+>cp12mer-352:0+12 of 12 bc25mer_19481:2+14 of 25
+GCTACGGATACA
+||||||||||||
+GCTACGGATACA
+
+>cp12mer-352:0-12 of 12 bc25mer_25192:7+19 of 25
+TGTATCCGTAGC
+||||||||||||
+TGTATCCGTAGC
+
+>cp12mer-353:0+12 of 12 bc25mer_218870:1+13 of 25
+CAACGGGAGATT
+||||||||||||
+CAACGGGAGATT
+
+>cp12mer-354:0+12 of 12 bc25mer_93967:5+17 of 25
+GTGGTCGATTCT
+||||||||||||
+GTGGTCGATTCT
+
+>cp12mer-355:0+12 of 12 bc25mer_100739:4+16 of 25
+TGTCCTCTGTTG
+||||||||||||
+TGTCCTCTGTTG
+
+>cp12mer-356:0+12 of 12 bc25mer_13553:3+15 of 25
+GGTTTACTCCGT
+||||||||||||
+GGTTTACTCCGT
+
+>cp12mer-357:0+12 of 12 bc25mer_5985:6+18 of 25
+TTAGACCCGATG
+||||||||||||
+TTAGACCCGATG
+
+>cp12mer-358:0+12 of 12 bc25mer_103218:5+17 of 25
+GACAACCCCTTT
+||||||||||||
+GACAACCCCTTT
+
+>cp12mer-359:0+12 of 12 bc25mer_205832:2+14 of 25
+TACTCTTGCGAC
+||||||||||||
+TACTCTTGCGAC
+
+>cp12mer-360:0+12 of 12 bc25mer_36166:5+17 of 25
+TCTAATGGACGG
+||||||||||||
+TCTAATGGACGG
+
+>cp12mer-361:0+12 of 12 bc25mer_15508:2+14 of 25
+ATGATGGGATGG
+||||||||||||
+ATGATGGGATGG
+
+>cp12mer-362:0+12 of 12 bc25mer_125002:0+12 of 25
+CTTGTTCCTGGT
+||||||||||||
+CTTGTTCCTGGT
+
+>cp12mer-363:0+12 of 12 bc25mer_2996:0+12 of 25
+TGGGGACTACAA
+||||||||||||
+TGGGGACTACAA
+
+>cp12mer-364:0+12 of 12 bc25mer_228090:1+13 of 25
+CATTCAAGGTGG
+||||||||||||
+CATTCAAGGTGG
+
+>cp12mer-365:0+12 of 12 bc25mer_69456:8+20 of 25
+TCCTCAGGACTT
+||||||||||||
+TCCTCAGGACTT
+
+>cp12mer-366:0+12 of 12 bc25mer_204799:5+17 of 25
+AAACTCCCAACC
+||||||||||||
+AAACTCCCAACC
+
+>cp12mer-367:0+12 of 12 bc25mer_7183:4+16 of 25
+TTCATGCTGAGG
+||||||||||||
+TTCATGCTGAGG
+
+>cp12mer-368:0+12 of 12 bc25mer_43684:7+19 of 25
+TGACTGGTGATG
+||||||||||||
+TGACTGGTGATG
+
+>cp12mer-369:0+12 of 12 bc25mer_29504:7+19 of 25
+CCTTTGAGTGGT
+||||||||||||
+CCTTTGAGTGGT
+
+>cp12mer-369:0-12 of 12 bc25mer_92372:11+23 of 25
+ACCACTCAAAGG
+||||||||||||
+ACCACTCAAAGG
+
+>cp12mer-370:0+12 of 12 bc25mer_74786:1+13 of 25
+TGCTCTAAGCAG
+||||||||||||
+TGCTCTAAGCAG
+
+>cp12mer-371:0+12 of 12 bc25mer_47958:4+16 of 25
+GTTTGGCATCAG
+||||||||||||
+GTTTGGCATCAG
+
+>cp12mer-372:0+12 of 12 bc25mer_2942:3+15 of 25
+AAGTCTACGGTC
+||||||||||||
+AAGTCTACGGTC
+
+>cp12mer-372:0-12 of 12 bc25mer_116643:1+13 of 25
+GACCGTAGACTT
+||||||||||||
+GACCGTAGACTT
+
+>cp12mer-373:0+12 of 12 bc25mer_78047:3+15 of 25
+CCTCTACGCTTT
+||||||||||||
+CCTCTACGCTTT
+
+>cp12mer-373:0+12 of 12 bc25mer_23651:13+25 of 25
+CCTCTACGCTTT
+||||||||||||
+CCTCTACGCTTT
+
+>cp12mer-374:0+12 of 12 bc25mer_34034:4+16 of 25
+ACTTTTGAGGGG
+||||||||||||
+ACTTTTGAGGGG
+
+>cp12mer-375:0+12 of 12 bc25mer_3440:3+15 of 25
+TAGGATCTTGCC
+||||||||||||
+TAGGATCTTGCC
+
+>cp12mer-376:0+12 of 12 bc25mer_18976:5+17 of 25
+AAGTACGGTTGG
+||||||||||||
+AAGTACGGTTGG
+
+>cp12mer-377:0+12 of 12 bc25mer_343:3+15 of 25
+CGTCTGGTTACA
+||||||||||||
+CGTCTGGTTACA
+
+>cp12mer-378:0+12 of 12 bc25mer_182020:3+15 of 25
+AGTCCCATACCT
+||||||||||||
+AGTCCCATACCT
+
+>cp12mer-379:0+12 of 12 bc25mer_149154:3+15 of 25
+CAGGAAGGGTTT
+||||||||||||
+CAGGAAGGGTTT
+
+>cp12mer-380:0+12 of 12 bc25mer_67854:7+19 of 25
+TAAGTCATCGGG
+||||||||||||
+TAAGTCATCGGG
+
+>cp12mer-380:0+12 of 12 bc25mer_160905:11+23 of 25
+TAAGTCATCGGG
+||||||||||||
+TAAGTCATCGGG
+
+>cp12mer-381:0+12 of 12 bc25mer_164613:1+13 of 25
+GTTCTTTTGCCC
+||||||||||||
+GTTCTTTTGCCC
+
+>cp12mer-382:0+12 of 12 bc25mer_22950:6+18 of 25
+CACCCACCATAA
+||||||||||||
+CACCCACCATAA
+
+>cp12mer-383:0+12 of 12 bc25mer_169890:1+13 of 25
+GAGGATGGCTAA
+||||||||||||
+GAGGATGGCTAA
+
+>cp12mer-384:0+12 of 12 bc25mer_28830:4+16 of 25
+AGCTATCCGTTG
+||||||||||||
+AGCTATCCGTTG
+
+>cp12mer-384:0-12 of 12 bc25mer_116797:5+17 of 25
+CAACGGATAGCT
+||||||||||||
+CAACGGATAGCT
+

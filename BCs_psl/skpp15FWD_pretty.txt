@@ -1,0 +1,10 @@
+>skpp15-51-F:0-15 of 15 bc25mer_28379:7+22 of 25
+GTGTTAGAGCGCGCC
+|||||||||||||||
+GTGTTAGAGCGCGCC
+
+>skpp15-256-F:0+15 of 15 bc25mer_90783:1+16 of 25
+GGTGCCAGGCGTAGT
+|||||||||||||||
+GGTGCCAGGCGTAGT
+
