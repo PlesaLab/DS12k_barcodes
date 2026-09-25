@@ -124,6 +124,6 @@ These checks apply to the supplied sequence files in their stored orientation. T
 
 ## Sources and license
 
-The parent barcode library comes from the Elledge laboratory's *Design of 240,000 orthogonal 25mer DNA barcode probes*; see the [Elledge barcode resource](https://elledge.hms.harvard.edu/?page_id=638). The alignment-parsing code was attributed in the original README to Nora's work in [PlesaLab/Barcodes\_from\_Elledge](https://github.com/PlesaLab/Barcodes_from_Elledge).
+The parent barcode library comes from the Elledge laboratory's *Design of 240,000 orthogonal 25mer DNA barcode probes*; see the [Elledge barcode resource](https://elledge.hms.harvard.edu/?page_id=638). The alignment-parsing code is based on Nora Kearns' work in [PlesaLab/Barcodes\_from\_Elledge](https://github.com/PlesaLab/Barcodes_from_Elledge).
 
 Repository code is distributed under the [MIT license](LICENSE). The source links above document the provenance of the external barcode library and alignment parser.
