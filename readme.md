@@ -1,4 +1,4 @@
-# Orthogonal 12-mer barcodes for DropSynth beads
+# Orthogonal 12-mer barcodes for DropSynth-12K beads
 
 This repository contains barcode sets, source sequences, intermediate results, and historical analysis scripts for designing 12-nucleotide barcodes for DropSynth barcoded beads. Candidate sequences were derived from the Elledge 240,000-member 25-mer barcode library, screened for sequence composition, melting temperature, restriction sites, and self-dimerization, and pruned using Levenshtein distance.
 
@@ -10,7 +10,7 @@ No software installation is needed to use the supplied FASTA files.
 
 | File | Records | Purpose |
 | --- | ---: | --- |
-| [cp12mer\_15.5k_12288subset.fasta](cp12mer_15.5k_12288subset.fasta) | 12,288 | Main DropSynth bead barcode set |
+| [cp12mer\_15.5k_12288subset.fasta](cp12mer_15.5k_12288subset.fasta) | 12,288 | Main DropSynth_12K bead barcode set |
 | [cp12mer\_15.5k_6144subset.fasta](cp12mer_15.5k_6144subset.fasta) | 6,144 | Smaller bead barcode set |
 | [cp12mer_15.5k.fasta](cp12mer_15.5k.fasta) | 15,500 | Full selected set |
 
