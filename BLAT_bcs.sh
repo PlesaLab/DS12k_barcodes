@@ -60,7 +60,7 @@ blat seq_files/bc25mer.240k.2bit seq_files/filt_prim_12nt_Lev_3_Tm_40_42_GC_45_5
 
 sleep 8
 
-pslPretty BCs_psl/bc384.psl .seq_files/bc25mer.240k.2bit seq_files/filt_prim_12nt_Lev_3_Tm_40_42_GC_45_55_SD_2_mod_restriction_trim.fasta BCs_psl/bc384_pretty.txt
+pslPretty BCs_psl/bc384.psl seq_files/bc25mer.240k.2bit seq_files/filt_prim_12nt_Lev_3_Tm_40_42_GC_45_55_SD_2_mod_restriction_trim.fasta BCs_psl/bc384_pretty.txt
 
 ##############################################
 
@@ -71,5 +71,4 @@ blat seq_files/bc25mer.240k.2bit seq_files/filt_prim_12nt_Lev_3_Tm_38_44_GC_45_5
 sleep 8
 
 pslPretty BCs_psl/bc1536.psl seq_files/bc25mer.240k.2bit seq_files/filt_prim_12nt_Lev_3_Tm_38_44_GC_45_55_SD_2_trim.fasta BCs_psl/bc1536_pretty.txt
-
 
